@@ -1,0 +1,58 @@
+SVN-fs-dump-format-version: 2
+
+UUID: 8fb8db32-1c67-4814-bf60-e94dc2010658
+
+Revision-number: 0
+Prop-content-length: 56
+Content-length: 56
+
+K 8
+svn:date
+V 27
+2011-12-16T14:45:28.086110Z
+PROPS-END
+
+Revision-number: 1
+Prop-content-length: 137
+Content-length: 137
+
+K 10
+svn:author
+V 5
+admin
+K 8
+svn:date
+V 27
+2011-12-16T14:45:28.198775Z
+K 7
+svn:log
+V 37
+Creating initial repository structure
+PROPS-END
+
+Node-path: branches
+Node-kind: dir
+Node-action: add
+Prop-content-length: 10
+Content-length: 10
+
+PROPS-END
+
+
+Node-path: tags
+Node-kind: dir
+Node-action: add
+Prop-content-length: 10
+Content-length: 10
+
+PROPS-END
+
+
+Node-path: trunk
+Node-kind: dir
+Node-action: add
+Prop-content-length: 10
+Content-length: 10
+
+PROPS-END
+
